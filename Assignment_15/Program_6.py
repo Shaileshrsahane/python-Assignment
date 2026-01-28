@@ -1,4 +1,4 @@
-#write a lambda function which accepts a list and return the minimum element
+#write a lambda function with reduce() which accepts a list and return the minimum element
 
 from functools import reduce
 
