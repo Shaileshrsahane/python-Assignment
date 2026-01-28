@@ -1,4 +1,4 @@
-#write a lambda function which accepts a list of number and return a list number who are divisible by 3 and 5
+#write a lambda function with filter () which accepts a list of number and return a list number who are divisible by 3 and 5
 
 CheckDivisible = lambda No1 : No1 % 3 == 0 and No1 % 5 == 0
 
