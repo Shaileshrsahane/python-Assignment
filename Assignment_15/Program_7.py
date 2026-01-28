@@ -1,4 +1,4 @@
-#write a lambda function which accepts a list of string and return the list of string who have length greater than 5
+#write a lambda function with filter () which accepts a list of string and return the list of string who have length greater than 5
 
 from functools import reduce
 
